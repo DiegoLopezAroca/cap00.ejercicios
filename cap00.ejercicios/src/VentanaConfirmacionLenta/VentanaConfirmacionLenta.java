@@ -8,7 +8,7 @@ import javax.swing.*;
 
 /** Ejercicio de hilos con ventanas. Programa esta clase para que se cree una ventana
  * que pida un dato de texto al usuario y un botón de confirmar para que se confirme.
- * Haz que al pulsar edl botón de confirmación se llame al procesoConfirmar()
+ * Haz que al pulsar el botón de confirmación se llame al procesoConfirmar()
  * que simula un proceso de almacenamiento externo que tarda unos segundos.
  * Observa que hasta que ocurre esta confirmación la ventana no responde.
  * 1. Arréglalo para que la ventana no se quede "frita" hasta que se acabe de confirmar.
